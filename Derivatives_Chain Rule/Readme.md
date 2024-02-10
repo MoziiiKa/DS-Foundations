@@ -1,6 +1,6 @@
-# **Linear Algebra and Calculus for Data Science and Computer Vision**
+# **Calculus for Data Science and Computer Vision**
 
-This repository contains a collection of Jupyter Notebooks dedicated to exploring and demonstrating key concepts in linear algebra and calculus, particularly focusing on derivatives and the chain rule. These mathematical foundations are pivotal for understanding and implementing various algorithms and techniques in data science and computer vision.
+This repository contains a collection of Jupyter Notebooks dedicated to exploring and demonstrating key concepts in calculus, particularly focusing on derivatives and the chain rule. These mathematical foundations are pivotal for understanding and implementing various algorithms and techniques in data science and computer vision.
 
 ## **Overview**
 
