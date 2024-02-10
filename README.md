@@ -52,3 +52,13 @@ A detailed analysis and visualization of Gaussian distributions in data sets. Th
 Clone the repository to your local machine:
 
 `git clone https://github.com/MoziiiKa/ML-Basics.git`
+
+Each project folder contains a Jupyter notebook with detailed explanations and code implementations. You can run these notebooks to see the projects in action.
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/your-repository-name/issues) if you want to contribute.
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
