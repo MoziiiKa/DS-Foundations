@@ -1,28 +1,35 @@
-# **Linear Algebra Exercises for Data Science and Computer Vision**
+# **Linear Algebra and Probability Exercises**
 
-This repository contains a collection of exercises and examples demonstrating key concepts in linear algebra with applications in data science and computer vision. The goal is to provide a practical understanding of how linear algebra underpins algorithms and techniques in these fields.
+This repository is dedicated to exercises and practical examples exploring fundamental concepts in Gaussian Distributions and Probability Distributions, with applications in data science and computer vision.
 
 ## **Overview**
 
-Linear algebra is a fundamental area of mathematics necessary for understanding and designing algorithms in data science and computer vision. This repository focuses on the practical application of linear algebra concepts in these areas, including but not limited to Gaussian distributions, probability distributions, matrix operations, eigenvalues and eigenvectors, and their significance in real-world applications.
+Linear algebra and probability theory are crucial in understanding and implementing algorithms within data science and computer vision. This collection of exercises aims to solidify understanding of Gaussian distributions and various probability distributions, illustrating their significance in real-world applications.
 
 ## **Gaussian Distribution**
 
 ### **Definition and Characteristics**
 
-We start with an introduction to the Gaussian (normal) distribution, emphasizing its symmetry about the mean and its bell-shaped curve. This section includes a detailed explanation of the mathematical formula and the significance of the mean (μ) and standard deviation (σ) in shaping the distribution.
+We begin with an exploration of the Gaussian distribution, highlighting its bell-shaped curve, symmetry about the mean, and the importance of mean (μ) and standard deviation (σ).
 
-### **Application in Data Science and Computer Vision**
+### **Mathematical Equation**
 
-Discusses the foundational role of the Gaussian distribution in understanding noise in images, smoothing techniques, and its necessity in statistical analysis for hypothesis testing and data normalization.
+The section delves into the mathematical formulation of the Gaussian distribution, providing insights into how μ and σ influence the distribution's shape.
+
+### **Relevance to Data Science and Computer Vision**
+
+Discusses the foundational role of Gaussian distribution in noise reduction in images, statistical assumptions in image processing algorithms, and its critical importance in hypothesis testing and data normalization.
 
 ## **Probability Distributions**
 
 ### **General Concept**
 
-An overview of probability distributions, distinguishing between discrete and continuous types, and their importance in modeling uncertainties and making predictions.
+An introduction to probability distributions, distinguishing between discrete and continuous distributions and their roles in modeling uncertainties and making predictions.
 
 ### **Examples and Applications**
 
-- **Discrete Distributions**: Focuses on the binomial distribution with real-world examples.
-- **Continuous Distributions**: Explains the uniform distribution and its applications, alongside the Gaussian distribution for a comprehensive understanding.
+Detailed examples, including the binomial distribution for discrete scenarios and the uniform distribution for continuous cases, highlight their relevance in data science simulations and machine learning parameter initialization.
+
+### **Relevance to the Field**
+
+Emphasizes how understanding these distributions is key to modeling uncertainties, making accurate predictions, and evaluating model performance, especially in computer vision tasks like image segmentation and object detection.
